@@ -1,7 +1,7 @@
 # HolmanSerialNumberAPI
 
 
-input the device serial and get back the below info;
+Input the device serial and get back the below info
 
 - Last Communication Date
 -	Last GPS Record Date
